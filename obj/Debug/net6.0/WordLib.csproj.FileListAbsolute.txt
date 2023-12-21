@@ -1,0 +1,11 @@
+C:\Users\natas\Documents\Chas\CSharp\WordLib\bin\Debug\net6.0\WordLib.deps.json
+C:\Users\natas\Documents\Chas\CSharp\WordLib\bin\Debug\net6.0\WordLib.dll
+C:\Users\natas\Documents\Chas\CSharp\WordLib\bin\Debug\net6.0\WordLib.pdb
+C:\Users\natas\Documents\Chas\CSharp\WordLib\obj\Debug\net6.0\WordLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natas\Documents\Chas\CSharp\WordLib\obj\Debug\net6.0\WordLib.AssemblyInfoInputs.cache
+C:\Users\natas\Documents\Chas\CSharp\WordLib\obj\Debug\net6.0\WordLib.AssemblyInfo.cs
+C:\Users\natas\Documents\Chas\CSharp\WordLib\obj\Debug\net6.0\WordLib.csproj.CoreCompileInputs.cache
+C:\Users\natas\Documents\Chas\CSharp\WordLib\obj\Debug\net6.0\WordLib.dll
+C:\Users\natas\Documents\Chas\CSharp\WordLib\obj\Debug\net6.0\refint\WordLib.dll
+C:\Users\natas\Documents\Chas\CSharp\WordLib\obj\Debug\net6.0\WordLib.pdb
+C:\Users\natas\Documents\Chas\CSharp\WordLib\obj\Debug\net6.0\ref\WordLib.dll
